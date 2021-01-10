@@ -42,7 +42,7 @@
 #splash-screen{
   background-color: var(--yellow);
   position:absolute;
-  height: 100vh;
+  height: 100%;
   width: 100vw;
   top:0;
   display: flex;
